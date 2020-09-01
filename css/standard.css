@@ -1,0 +1,26 @@
+/*universal selector*/
+
+*{
+    background-color: rgb(125, 125, 168);
+}
+
+/*type selector*/
+img{
+    display: block;
+    margin:0 auto;
+}
+
+a{
+    color:yellow
+}
+
+/*pseudo-selector*/
+a:hover{
+    color:red
+}
+
+/*id selector*/
+#program{
+    font-weight: bold;
+    color:white
+}
